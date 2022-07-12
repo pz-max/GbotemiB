@@ -6,7 +6,7 @@
 - i am intrested in **ML projects, backend with python**
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with ... currently **internship**
-- 📫 How to reach me: **Gmail: gbotemibolarinwa@gmail.com**
+- 📫 How to reach me: **Gmail: oluwagbotty@gmail.com**
 - 💬 Ask me about anything relating python 
 
 <br>
