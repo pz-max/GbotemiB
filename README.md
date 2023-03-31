@@ -3,11 +3,11 @@
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
 - i am a **ML and Data Science enthusiast**
-- i am intrested in **ML projects, backend with python**
+- i am intrested in **ML and data related projects**
 - 👯 I’m looking to collaborate on **open source projects**
 - 🤔 I’m looking for help with ... currently **internship**
-- 📫 How to reach me: **Gmail: oluwagbotty@gmail.com**
-- 💬 Ask me about anything relating python 
+- 📫 How to reach me: **Gmail: gbotemibolarinwa@gmail.com**
+- 💬 Ask me about anything relating python, or Data.
 
 <br>
 
