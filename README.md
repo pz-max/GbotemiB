@@ -14,6 +14,9 @@
 - 💬 Ask me about anything relating python, or Data.
 
 <br>
+<p align="right">
+    <img src="[image_url_here](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default)" alt="Image Description">
+</p>
 
 ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact)](https://github.com/gbotemib/gbotemib)
 
