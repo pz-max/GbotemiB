@@ -14,7 +14,7 @@
 - 💬 Ask me about anything relating python, or Data.
 
 <br>
-<p align="left">
+<!-- <p align="left">
     <img src="image_url_here" alt="Image Description">
 </p>
 
@@ -23,7 +23,7 @@
 </p>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact" alt="Image Description">
-</p>
+</p> -->
 
 ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact)](https://github.com/gbotemib/gbotemib)
 
