@@ -6,10 +6,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=GbotemiB.GbotemiB)
 
-- My name is **Bolarinwa Emmanuel Gbotemi** 
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
-- i am a **ML and Data Science enthusiast**
 - i am intrested in **ML and data related projects**
 - 👯 I’m looking to collaborate on **open source projects**
 - 📫 How to reach me: **Gmail: gbotemibolarinwa@gmail.com**
