@@ -1,11 +1,17 @@
-### Hi there 👋
+### Hi there, I'm <a href="https://www.linkedin.com/in/emmanuel-bolarinwa/" target="_blank">Emmanuel Bolarinwa</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="12px">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_oluwagbotty)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-bolarinwa/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gbotemibolarinwa@gmail.com)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=GbotemiB.GbotemiB)
+
 - My name is **Bolarinwa Emmanuel Gbotemi** 
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
 - i am a **ML and Data Science enthusiast**
 - i am intrested in **ML and data related projects**
 - 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with ... currently **internship**
 - 📫 How to reach me: **Gmail: gbotemibolarinwa@gmail.com**
 - 💬 Ask me about anything relating python, or Data.
 
