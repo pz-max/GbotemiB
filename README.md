@@ -15,8 +15,7 @@
 
 <br>
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact)](https://github.com/gbotemib/gbotemib)
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact)](https://github.com/gbotemib/gbotemib)
 
 <!--
 **onifs10/onifs10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
