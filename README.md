@@ -8,14 +8,14 @@
 
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
-- i am intrested in **ML and data related projects**
+- I’m interested in **ML and data related projects**
 - 👯 I’m looking to collaborate on **open source projects**
 - 📫 How to reach me: **Gmail: gbotemibolarinwa@gmail.com**
-- 💬 Ask me about anything relating python, or Data.
+- 💬 Ask me about anything related to Python, or Data.
 
 <br>
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onifs10&layout=compact)](https://github.com/gbotemib/gbotemib)
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=gbotemib&show_icons=true&theme=default) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbotemib&layout=compact)](https://github.com/gbotemib/gbotemib)
 
 <!--
 **onifs10/onifs10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
