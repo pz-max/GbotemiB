@@ -8,10 +8,10 @@
 
 - 📖 I’m currently studying computer engineering 
 - 🌱 ... always learning
-- i am intrested in **ML and data related projects**
+- I’m interested in **ML and data related projects**
 - 👯 I’m looking to collaborate on **open source projects**
 - 📫 How to reach me: **Gmail: gbotemibolarinwa@gmail.com**
-- 💬 Ask me about anything relating python, or Data.
+- 💬 Ask me about anything related to Python, or Data.
 
 <br>
 
